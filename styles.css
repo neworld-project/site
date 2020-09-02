@@ -72,6 +72,28 @@ div.logowrap > div.logosub {
 	font-size: 200%;
 }
 
+@media screen and (max-width: 481px){
+
+	div.content {
+		margin-left: 3%;
+		margin-right: 3%;
+	}
+	
+	div.logowrap > div.logo {
+
+		font-size: 600%;
+	}
+	
+	div.logowrap > div.logosub {
+		
+		font-size: 110%;
+	}
+	
+	div.logowrap {
+		margin-top: 10%;
+	}
+}
+
 div.content h1 {
 	font-weight: normal;
 	font-size: 250%;
