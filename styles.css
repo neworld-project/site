@@ -41,6 +41,7 @@ div.logowrap {
 
 div.descriptionwrap {
 	margin-top: 4%;
+	text-shadow: 1px 1px 1px #000000;
 }
 
 div.logowrap > div {
@@ -81,7 +82,8 @@ div.logowrap > div.logosub {
 	
 	div.logowrap > div.logo {
 
-		font-size: 600%;
+		font-size: 500%;
+		line-height: 70%;
 	}
 	
 	div.logowrap > div.logosub {
