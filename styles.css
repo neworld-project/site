@@ -74,10 +74,14 @@ div.logowrap > div.logosub {
 }
 
 @media screen and (max-width: 481px){
+	
+	body {
+		background-image: url("background2.png");
+	}
 
 	div.content {
-		margin-left: 3%;
-		margin-right: 3%;
+		margin-left: 0;
+		margin-right: 0;
 	}
 	
 	div.logowrap > div.logo {
@@ -92,7 +96,7 @@ div.logowrap > div.logosub {
 	}
 	
 	div.logowrap {
-		margin-top: 10%;
+		margin-top: 15%;
 	}
 }
 
