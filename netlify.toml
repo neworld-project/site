@@ -3,11 +3,11 @@ from = "/"
 to = "/ua"
 status = 302
 force = true
-conditions = {Country = ["uk"]}
+conditions = {Country = ["UA"]}
 
 [[redirects]]
 from = "/"
 to = "/ru"
 status = 302
 force = true
-conditions = {Country = ["ru"]}
+conditions = {Country = ["RU"]}
