@@ -1,4 +1,4 @@
 [[redirects]]
-from = "/index.html"
-to = "/ua/index.html"
+from = "/"
+to = "/ua/"
 force = true
