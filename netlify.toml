@@ -1,13 +1,11 @@
 [[redirects]]
-from = "/"
-to = "/ua/"
+from = "/index.html"
+to = "/ua/index.html"
 force = true
-
 conditions = {Language = ["uk"]}
 
 [[redirects]]
-from = "/"
-to = "/ru/"
+from = "/index.html"
+to = "/ru/index.html"
 force = true
-
 conditions = {Language = ["ru"]}
