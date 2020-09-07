@@ -1,4 +1,4 @@
 [[redirects]]
-from = "/index.html"
-to = "/en/index.html"
+from = "/"
+to = "/en"
 force = true
