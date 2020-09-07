@@ -1,0 +1,13 @@
+[[redirects]]
+from = "/"
+to = "/ua/"
+force = true
+
+conditions = {Language = ["uk"]}
+
+[[redirects]]
+from = "/"
+to = "/ru/"
+force = true
+
+conditions = {Language = ["ru"]}
