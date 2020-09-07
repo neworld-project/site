@@ -1,4 +1,19 @@
 [[redirects]]
 from = "/"
+to = "/ua"
+status = 302
+force = true
+conditions = {Language = ["uk"]}
+
+[[redirects]]
+from = "/"
+to = "/ru"
+status = 302
+force = true
+conditions = {Language = ["ru"]}
+
+[[redirects]]
+from = "/"
 to = "/en"
+status = 302
 force = true
