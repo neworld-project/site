@@ -13,6 +13,6 @@ force = true
 conditions = {Language = ["ru"]}
 
 [[redirects]]
-from = "/"
-to = "/en"
+from = "/index.html"
+to = "/en/index.html"
 status = 302
