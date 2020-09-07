@@ -1,3 +1,4 @@
 [[redirects]]
 from = "/index.html"
 to = "/en/index.html"
+force = true
