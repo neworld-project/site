@@ -33,7 +33,7 @@ div.langwrap span.current {
 
 div.logowrap {
 	margin-top: 5%;
-	font-family: 'Source Code Pro';
+	font-family: 'Exo 2', sans-serif;
 	text-shadow: 1px 1px 1px #000000;
 }
 
@@ -50,19 +50,19 @@ div.logowrap > div {
 
 div.logowrap > div.logo {
 
-	font-size: 900%;
-	margin-left: -5px;
+	font-size: 700%;
+	margin-left: -8px;
 	line-height: 80%;
 }
 
 div.logowrap > div.logo > span.logoblack {
 	
-	font-weight: 900;
+	font-weight: 600;
 }
 
 div.logowrap > div.logo > span.logolight {
 	
-	font-weight: 300;
+	font-weight: 100;
 }
 
 div.logowrap > div.logosub {
@@ -84,6 +84,7 @@ div.logowrap > div.logosub {
 	
 	div.logowrap > div.logo {
 		font-size: 400%;
+		margin-left: -3px;
 		line-height: 70%;
 	}
 	
